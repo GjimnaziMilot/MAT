@@ -1,6 +1,6 @@
 const database = [
 
-    { emri: "Alesja", mbiemri: "Veseli", nid: "K85523092O", id: "262526600015" },
+    { emri: "Alesja", mbiemri: "Veseli", nid: "K85523029O", id: "262526600015" },
     { emri: "Alonso", mbiemri: "Lleshi", nid: "K71017040R", id: "262526600017" },
     { emri: "Andi", mbiemri: "Kasmi", nid: "K81205026V", id: "262526600028" },
     { emri: "Argita", mbiemri: "Preni", nid: "K85618023N", id: "262526600013" },
