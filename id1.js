@@ -82,4 +82,3 @@ function kerkoID(){
         rezultati.className = "error";
     }
 }
-}
