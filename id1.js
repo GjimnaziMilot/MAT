@@ -14,7 +14,7 @@ const database = [
     { emri: "Klevis", mbiemri: "Likaj", nid: "K71108035I", id: "262526600024" },
     { emri: "Klista", mbiemri: "Hidri", nid: "K85729021J", id: "262526600016" },
     { emri: "Ledjon", mbiemri: "Aliu", nid: "K80723032H", id: "262526600041" },
-    { emri: "Lezanda", mbiemri: "Marku", nid: "K86030036T", id: "262526600003" },
+    { emri: "Lezanda", mbiemri: "Marku", nid: "K86030037T", id: "262526600003" },
     { emri: "Luis", mbiemri: "Lika", nid: "K71226024R", id: "262526600009" },
     { emri: "Mariglen", mbiemri: "Hyseni", nid: "K80421023M", id: "262526600022" },
     { emri: "Serena", mbiemri: "Kokaj", nid: "K76231031M", id: "262526600021" },
